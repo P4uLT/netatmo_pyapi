@@ -42,7 +42,7 @@ classifiers = [
 ]
 dependencies = [
     "platformdirs>=4.0.0",
-    "requests==2.32.5",
+    "requests==2.33.0",
 ]
 
 [project.urls]
